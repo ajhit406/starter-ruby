@@ -26,12 +26,11 @@ On Windows, the easiest way to set permanent environment variables (as of Window
     setx TWILIO_AUTH_TOKEN XXXXXXXXX
     setx TWILIO_NUMBER +16518675309
 
-## Developing on Nitrous.IO
+## Nitrous Quickstart
 
-Start hacking on this app on [Nitrous.IO](https://www.nitrous.io/?utm_source=github.com&utm_campaign=twilio-starter-ruby&utm_medium=hackonnitrous) in seconds:
+You can quickly create a dev environment in the cloud on www.nitrous.io:
 
-[![Hack twilio/starter-ruby on
-Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=rails&repo=twilio%2Fstarter-ruby&file_to_open=README.nitrous.md)
+[![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
 
 ## Running the application locally
 
