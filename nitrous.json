@@ -1,0 +1,8 @@
+{
+    "template": "ruby",
+    "name": "Twilio Ruby Starter",
+    "logo": "",
+    "description": "Pre-configured project to do some interesting Twilio stuff using Ruby and the light-weight Sinatra web framework",
+    "ports": [3000, 4567]
+}
+

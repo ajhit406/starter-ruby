@@ -15,8 +15,7 @@ Environment Variables can be set by opening a terminal window and typing the fol
 Run the following commands in the Terminal below:
 
 1. `cd ~/workspace/starter-ruby`
-2. `bundle`
-3. `./script/server`
+2. `./script/server`
 
 Go to the "Preview Menu" and click "Port 3000"
 
